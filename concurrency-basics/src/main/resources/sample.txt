@@ -1,0 +1,7 @@
+Sample Text Files Details
+The text file is a basic computer file that has text without any formatting like bold, italic, and other formats. This file has stored with .txt file format.
+
+How to open .txt files?
+.txt file is open with any type of text editor and there are many text editor available in every operating system for open and edit text files.
+
+This file format is a basic file format that is commonly used in every place and it is easy to download and edit from any operating system.
